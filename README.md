@@ -14,3 +14,7 @@ Gerekli modüller için bu kodu terminalde çalıştırın:
 - MacOS/Linux: pip3 install gTTS playsound SpeechRecognition
 
 cevapla() fonksiyonu içerisinde yer alan ifadeleri istediğiniz gibi değiştirebilirsiniz. Ben dili Türkçe olarak ayarladım fakat bunu değiştirebilirsiniz. ISOCODES.txt dosyasında bazı ülkelerin ISO kodları verildi.  
+
+# NOT/NOTE:  
+EN: The only difference between en_voicechat and tr_seslisohbet is the names of the variables and functions.  
+TR: en_voicechat ve tr_seslisohbet arasındaki fark sadece değişken ve fonksiyon adları.
