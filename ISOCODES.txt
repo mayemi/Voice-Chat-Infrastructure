@@ -1,0 +1,202 @@
+EN:  
+Afrikaans - af
+Albanian - sq
+Arabic - ar
+Azerbaijani - az
+Bengali - bn
+Bosnian - bs
+Bulgarian - bg
+Czech - cs
+Danish - da
+Indonesian - id
+English - en
+Estonian - et
+Persian - fa
+Finnish - fi
+French - fr
+Georgian - ka
+Croatian - hr
+Dutch - nl
+Hebrew - he
+Spanish - es
+Italian - it
+Japanese - ja
+Kazakh - kk
+Kyrgyz - ky
+Latin - la
+Polish - pl
+Latvian - lv
+Lithuanian - lt
+Hungarian - hu
+Malay - ms
+Macedonian - mk
+Norwegian - no
+Pashto - ps
+Portuguese - pt
+Romanian - ro
+Russian - ru
+Serbian - sr
+Slovak - sk
+Slovenian - sl
+Somali - so
+Sotho - st
+Swahili - sw
+Tamil - ta
+Tatar - tt
+Telugu - te
+Turkish - tr
+Ukrainian - uk
+Urdu - ur
+Vietnamese - vi
+Welsh - cy
+Finnish - fi
+Tuvan - tuv
+Abkhaz - ab
+Aragonese - an
+Avar - av
+Altai - av
+Amharic - am
+Ancient Chinese - cx
+Apache - ae
+Arabic (Egypt) - ar-EG
+Arabic (Saudi Arabia) - ar-SA
+Asturian - ast
+Avar - av
+Bemba - bem
+Berber - ber
+Breton - br
+Cebuano - ceb
+Czech (Moravian) - cs-MO
+Chinese (Simplified) - zh-CN
+Chinese (Traditional) - zh-TW
+Dungan - dng
+Persian (Iran) - fa-IR
+Ganda - lg
+Advanced English - en-AU
+Cretan - gr
+Hmong - hm
+Igbo - ig
+Italian (Italy) - it-IT
+Javanese - jv
+Kannada - kn
+Khmer - km
+Korean - ko
+Latin - la
+Malagasy - mg
+Maori - mi
+Nahuatl - nah
+Nepali - ne
+Norwegian - no
+Punjabi - pa
+Quechua - qu
+Romani - rom
+Samoan - sm
+Santhali - sat
+Sardinian - sc
+Sranan Tongo - srn
+Sundanese - su
+Tamil (Sri Lanka) - ta-LK
+Telugu (India) - te-IN
+Tswana - tn
+Zulu - zu
+TR:  
+Afrikaans - af
+Arnavutça - sq
+Arapça - ar
+Azerice - az
+Bengalce - bn
+Boşnakça - bs
+Bulgarca - bg
+Çekçe - cs
+Danca - da
+Endonezyaca - id
+İngilizce - en
+Estonca - et
+Farsça - fa
+Fince - fi
+Fransızca - fr
+Gürcüce - ka
+Hırvatça - hr
+Hollandaça - nl
+İbranice - he
+İspanyolca - es
+İtalyanca - it
+Japonca - ja
+Kazakça - kk
+Kırgızca - ky
+Klasik Latince - la
+Lehçe - pl
+Letonca - lv
+Litvanca - lt
+Macarca - hu
+Malayca - ms
+Makedonca - mk
+Norveççe - no
+Pashto - ps
+Portekizce - pt
+Romence - ro
+Rusça - ru
+Sırpça - sr
+Slovakça - sk
+Slovence - sl
+Somali - so
+Sotho - st
+Swahili - sw
+Tamilce - ta
+Tatarca - tt
+Telugu - te
+Türkçe - tr
+Ukraynaca - uk
+Urduca - ur
+Vietnamca - vi
+Welsh - cy
+Fince - fi
+Tuca - tuv
+Abhazca - ab
+Aragonca - an
+Avarca - av
+Altayca - av
+Amharca - am
+Antik Çince - cx
+Apapaca - ae
+Arapça (Mısır) - ar-EG
+Arapça (Suudi Arabistan) - ar-SA
+Asturyanca - ast
+Avarca - av
+Bemba - bem
+Berberice - ber
+Bretonca - br
+Cebuano - ceb
+Çekçe (Moravya) - cs-MO
+Çince (Basitleştirilmiş) - zh-CN
+Çince (Geleneksel) - zh-TW
+Dungan - dng
+Farsça (İran) - fa-IR
+Ganda - lg
+Gelişmiş İngilizce - en-AU
+Girit Dili - gr
+Hmong - hm
+İgbo - ig
+İtalyanca (İtalya) - it-IT
+Java - jv
+Kannaada - kn
+Khmer - km
+Korece - ko
+Latince - la
+Malgaca - mg
+Maori - mi
+Nahuatl - nah
+Nepali - ne
+Norska - no
+Pencapça - pa
+Quechua - qu
+Romani - rom
+Samoaca - sm
+Santhal - sat
+Sanırtı - sc
+Sranan Tongo - srn
+Sundanca - su
+Tamilce (Srilanka) - ta-LK
+Telugu (Hindistan) - te-IN
+Tswana - tn
+Zulu - zu
